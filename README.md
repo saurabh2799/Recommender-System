@@ -2,7 +2,7 @@
 
 This is part of my course project, Pattern Recognition and Machine Learning.
 
-PROJECT : Movie recommender Syster
+PROJECT : Movie recommender System
 
 Constitutents:
 
